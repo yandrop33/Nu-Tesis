@@ -7,4 +7,4 @@ Análisis completo de Nubank (NYSE: NU).
 - México ya en break-even
 - Gran potencial de crecimiento
 
-[Leer la tesis completa](https://yandrop33.github.io/Nu-Tesis/)
+[Leer la tesis completa]([Leer la tesis completa](./tesis-nu.html))
